@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "9a9fae60a74c5464",
+    "type": "split",
+    "children": [
+      {
+        "id": "626e0cd30010bc19",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TTN content map - START HERE!.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a1fbf99d4d17651a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Đối tượng nên nói chuyện nhất về blockchain là community leaders.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "199fcb0b21f3ff26",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "blockchain content map - technology.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db1f082aed8a5515",
+    "type": "split",
+    "children": [
+      {
+        "id": "aacb7cf390299803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c988e6ed6a776b1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bce6e6d72bdb3aaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d7b92159ced06ad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 494.5
+  },
+  "right": {
+    "id": "e28cdb87ceb00cb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "125ea6254b6b5840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e401853639256d26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TTN content map - START HERE!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8528a0175d6741cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TTN content map - START HERE!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c090507fae93992",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89faf9a18cd7c781",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TTN content map - START HERE!.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "626e0cd30010bc19",
+  "lastOpenFiles": [
+    "Research-PoC-Event-Approach Community Leader - strategy.md",
+    "Đối tượng nên nói chuyện nhất về blockchain là community leaders - idea.md",
+    "Đối tượng nên nói chuyện nhất về blockchain là community leaders.md",
+    "blockchain content map - technology.md",
+    "TTN content map - START HERE!.md"
+  ]
+}
