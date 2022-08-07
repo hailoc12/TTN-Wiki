@@ -4,31 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "626e0cd30010bc19",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TTN content map - START HERE!.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a1fbf99d4d17651a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Đối tượng nên nói chuyện nhất về blockchain là community leaders.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "199fcb0b21f3ff26",
+        "id": "f116b1df3a96d233",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -101,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTN content map - START HERE!.md",
+                "file": "blockchain content map - technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTN content map - START HERE!.md",
+                "file": "blockchain content map - technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTN content map - START HERE!.md"
+                "file": "blockchain content map - technology.md"
               }
             }
           }
@@ -152,12 +128,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "626e0cd30010bc19",
+  "active": "f116b1df3a96d233",
   "lastOpenFiles": [
-    "Research-PoC-Event-Approach Community Leader - strategy.md",
-    "Đối tượng nên nói chuyện nhất về blockchain là community leaders - idea.md",
-    "Đối tượng nên nói chuyện nhất về blockchain là community leaders.md",
     "blockchain content map - technology.md",
-    "TTN content map - START HERE!.md"
+    "TTN content map - START HERE!.md",
+    "Đối tượng nên nói chuyện nhất về blockchain là community leaders.md",
+    "Research-PoC-Event-Approach Community Leader - strategy.md",
+    "Đối tượng nên nói chuyện nhất về blockchain là community leaders - idea.md"
   ]
 }
